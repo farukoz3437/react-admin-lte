@@ -9,3 +9,9 @@
 ==><div class="wrapper"> app.js dosyasındaki div e class eklendi.
 ==>src altında components klasörü oluşturuldu  ve içine Header.js, Menu.js,Dashboard.js, Footer.js oluşturuldu. App.js içinden çağırıldı
 ==> admin lte index içindeki nav menüsü alındı ve src/components/Header.js içine yapıştırıldı. Yapıştırılan Div seçilerek sağ tıklayıp Convert Html to jsx tıklayarak hatalar düzeltildi. Aynı işlem Menu, Dashboard, Footer için yapıldı.
+
+
+==> git configuration
+git init
+git config user.name "someone"
+git config user.email "someone@someplace.com"
